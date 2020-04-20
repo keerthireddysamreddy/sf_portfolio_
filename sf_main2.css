@@ -1,0 +1,105 @@
+body{
+	background-image: url("portfolio.jpeg");
+	background-size: 1300px 700px;
+}
+
+.myportfolio{
+	color: black;
+	font-weight: 0.5px;
+	padding: 2px 0px 2px 0px;
+	border:2px solid black;
+	position: absolute;
+	top: 4px;
+	left: 10px;
+	font-family: Impact, Charcoal, sans-serif;
+
+}
+.keerthi{
+	font-family: Florence, cursive;
+	font-size: 20px;
+	font-weight: 10px;
+	position: absolute;
+	top:15px;
+	right: 2px;
+}
+.contact{
+	position: absolute;
+	top:525px;
+	left: 150px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	
+}
+.achieve{
+	position: absolute;
+	top:525px;
+	left: 350px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.about{
+	position: absolute;
+	top:525px;
+	left: 580px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.home{
+	position: absolute;
+	top:525px;
+	left: 780px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.aboutme{
+	position: absolute;
+	top: 180px;
+	left: 500px;
+}
+.typewriter{
+	font-family: Courier, monospace;
+	font-size: 20px;
+	font-weight: 700;
+}
+.interests{
+	font-family: Impact, Charcoal, sans-serif;
+	font-style: italic;
+	font-size: 25px;
+	font-weight: 560;
+}
+p1{
+	background-color: #fed8b1;
+	padding: 1px;
+}
+p2{
+	background-color: #fed8b1;
+	padding: 1px;
+}
+p3{
+	background-color: #fed8b1;
+	padding: 1px;
+}
+p4{
+	background-color: #fed8b1;
+	padding: 1px;
+}

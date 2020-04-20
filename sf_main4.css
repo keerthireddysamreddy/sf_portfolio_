@@ -1,0 +1,104 @@
+body{
+	background-image: url("contactme.jpeg");
+	background-size: 1300px 700px;
+}
+.myportfolio{
+	color: black;
+	font-weight: 0.5px;
+	padding: 2px 0px 2px 0px;
+	border:2px solid black;
+	position: absolute;
+	top: 4px;
+	left: 10px;
+	font-family: Impact, Charcoal, sans-serif;
+
+}
+.keerthi{
+	font-family: Florence, cursive;
+	font-size: 20px;
+	font-weight: 10px;
+	position: absolute;
+	top:15px;
+	right: 2px;
+}
+.contact{
+	position: absolute;
+	bottom: 20px;
+	left: 230px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: #4E008E ;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	color: white;
+	
+}
+.achieve{
+	position: absolute;
+	bottom: 20px;
+	left: 465px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: #4E008E;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	color: white;
+}
+.about{
+	position: absolute;
+	bottom: 20px;
+	left: 750px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: #4E008E ;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	color: white;
+}
+.home{
+	position: absolute;
+	bottom: 20px;
+	left: 1040px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: #4E008E ;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	color: white;
+}
+.fb{
+	height: 125px;
+	width: 125px;
+	position: absolute;
+	top: 170px;
+	left: 155px;
+}
+.insta{
+	height: 125px;
+	width: 125px;
+	position: absolute;
+	top: 135px;
+	left: 465px;
+}
+.whatsapp{
+	height: 125px;
+	width: 125px;
+	position: absolute;
+	top: 160px;
+	left: 720px;
+}
+.linkedin{
+	height: 125px;
+	width: 125px;
+	position: absolute;
+	top: 150px;
+	left: 1000px;
+}

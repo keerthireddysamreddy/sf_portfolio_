@@ -1,0 +1,111 @@
+body{
+	background-image: url("homepage1.jpeg");
+	background-size: 1300px 700px;
+}
+.myphoto{
+	border-radius:8px;
+	position:absolute;
+	left:13px;
+	top:200px;
+	border-width:  8px;
+	border-color: black;
+}
+.myportfolio{
+	color: black;
+	font-weight: 0.5px;
+	padding: 2px 0px 2px 0px;
+	border:2px solid black;
+	position: absolute;
+	top: 4px;
+	left: 10px;
+	font-family: Impact, Charcoal, sans-serif;
+
+}
+.contact{
+	position: absolute;
+	top:170px;
+	left: 1110px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius:10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	
+}
+.achieve{
+	position: absolute;
+	top:245px;
+	left: 1110px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+
+}
+.about{
+	position: absolute;
+	top:320px;
+	left: 1110px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.home{
+	position: absolute;
+	top:395px;
+	left: 1110px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.keerthi{
+	font-family: Florence, cursive;
+	font-size: 20px;
+	font-weight: 10px;
+	position: absolute;
+	top:15px;
+	right: 2px;
+}
+
+.hi
+{
+	font-family: Gill Sans, sans-serif;
+	position: absolute;
+	top: 180px;
+	left: 295px;
+}
+
+
+.dept{
+	position: absolute;
+	top:350px;
+	left: 290px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 20px;
+	font-weight: 550;
+
+}
+#name{
+	font-size: 40px;
+}
+p5{
+	background-color: #fed8b1;
+	padding: 1px;
+}
+p6{
+	background-color: #fed8b1;
+	padding: 1px;
+}

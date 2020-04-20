@@ -1,0 +1,88 @@
+body{
+	background-image: url("achievements.jpeg");
+	background-size: 1300px 700px;
+}
+.myportfolio{
+	color: black;
+	font-weight: 0.5px;
+	padding: 2px 0px 2px 0px;
+	border:2px solid black;
+	position: absolute;
+	top: 4px;
+	left: 10px;
+	font-family: Impact, Charcoal, sans-serif;
+
+}
+.keerthi{
+	font-family: Florence, cursive;
+	font-size: 20px;
+	font-weight: 10px;
+	position: absolute;
+	top:15px;
+	right: 2px;
+}
+
+.contact{
+	position: absolute;
+	top:350px;
+	left: 90px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+	
+}
+.achieve{
+	position: absolute;
+	top:420px;
+	left: 90px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.about{
+	position: absolute;
+	top:490px;
+	left: 90px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+.home{
+	position: absolute;
+	top:560px;
+	left: 90px;
+	font-size: 17px;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	font-family: Florence, cursive;
+	font-weight: 700;
+	text-decoration: none;
+}
+p1{
+	font-family: 'Amita';
+	font-size:xx-large;
+	position: absolute;
+	top: 220px;
+	left: 400px;
+}
+p2{
+	font-family: 'Annie Use Your Telescope';
+	font-size: x-large;
+	position: absolute;
+	top:400px;
+	left:400px;
+	font-weight: 700;
+}
